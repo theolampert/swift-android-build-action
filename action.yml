@@ -8,7 +8,7 @@ on:
 
 jobs:
   linux_test:
-    name: Test Android
+    name: Build Android
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
